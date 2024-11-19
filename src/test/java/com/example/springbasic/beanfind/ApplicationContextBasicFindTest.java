@@ -1,4 +1,4 @@
-package com.example.springbasic.hello.core.beanfind;
+package com.example.springbasic.beanfind;
 
 import com.example.springbasic.AppConfig;
 import com.example.springbasic.member.MemberService;
